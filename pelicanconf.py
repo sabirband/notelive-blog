@@ -3,7 +3,7 @@ SITENAME = 'NOTELIVE | Юридичний блог майбутнього'
 SITEURL = 'https://blog.notelive-shvalyuk.com'
 SITESUBTITLE = 'Цифрова грамотність. Спадщина. Майбутнє.'
 PATH = "content"
-
+THEME = 'themes/pelican-themes/Flex'
 TIMEZONE = 'Europe/Kyiv'
 
 DEFAULT_LANG = 'uk'

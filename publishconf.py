@@ -20,6 +20,13 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # DISQUS_SITENAME = ""
 # GOOGLE_ANALYTICS = ""
+JINJA_ENVIRONMENT = {
+    'extensions': [
+        'jinja2.ext.loopcontrols',
+    ]
+}
+
+
 STATIC_PATHS = ['images', 'extra'] # Убедись, что 'extra' здесь есть
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
