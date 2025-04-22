@@ -9,7 +9,7 @@ TIMEZONE = 'Europe/Kyiv'
 
 DEFAULT_LANG = 'uk'
 OUTPUT_PATH = 'output/'
-
+THEME_DIRS = ['themes']
 THEME = 'themes/Flex'
 # publishconf.py
 
