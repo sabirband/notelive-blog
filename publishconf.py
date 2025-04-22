@@ -27,7 +27,7 @@ JINJA_ENVIRONMENT = {
 }
 
 
-STATIC_PATHS = ['images', 'extra'] # Убедись, что 'extra' здесь есть
+STATIC_PATHS = ['images', 'extra'] 
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
 }
