@@ -10,7 +10,7 @@ TIMEZONE = 'Europe/Kyiv'
 DEFAULT_LANG = 'uk'
 OUTPUT_PATH = 'output/'
 THEME_DIRS = ['themes']
-THEME = 'themes/Flex'
+THEME = 'themes/pelican-themes/attila'
 # publishconf.py
 
 # ... (інші імпорти та налаштування, успадковані з pelicanconf - залишаються) ...
